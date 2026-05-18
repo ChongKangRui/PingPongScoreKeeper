@@ -1,0 +1,17 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css";
+
+
+/* #container{
+    border: 50px;
+    border-radius: 20%;
+    border-color: gray;
+} */
+
+
+.winner{
+    color: rgb(0, 221, 0);
+}
+
+.loser{
+    color: rgb(239, 0, 0);
+}
